@@ -23,3 +23,5 @@ PROJECT BUILD STEPS (Make sure that your project is getting built successfully):
             - npm install
             - npm run build
     3. Please make sure that your project is built successfully.
+    4. Run the following commaand in the terminal/command-line to start the app:
+        - npm start
