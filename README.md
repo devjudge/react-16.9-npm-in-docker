@@ -11,7 +11,7 @@ IMPORTANT NOTES (In case Backend Service API Integration is required):
         - Linux, macOS (bash): REACT_APP_API_URL=<endpoint URL> npm start
 
 
-PROJECT BUILD STEPS (Make sure that your project is getting built successfully):
+PROJECT BUILD STEPS (Make sure that your project is getting built successfully) :
 
     Pre-requisites:
     1. Install http-server module (https://www.npmjs.com/package/http-server).
